@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v3.0.7 NT (http://www.xmlspy.com) by John Kane (Level 3) -->
+<!DOCTYPE resume SYSTEM "C:\files\Resume - Kane, John\resume.dtd">
+<?xml-stylesheet type="text/xsl" href="C:\files\Resume - Kane, John\online.xsl"?>
+<resume>
+	<header>
+		<name>
+			<firstname>John Arthur</firstname>
+			<surname>Kane</surname>
+		</name>
+		<address>
+			<street>PO Box 129</street>
+			<city>Lafayette</city>
+			<state>CO</state>
+			<zip>80026</zip>
+		</address>
+		<contact>
+			<phone>303/926-0405</phone>
+			<email>JKane@pobox.com</email>
+			<url>http://www.kane.net/~jkane</url>
+		</contact>
+	</header>
+	<objective>
+		<para>Seeking a leadership role in an innovative company that will allow me to utilize my broad experience base and advanced technical and management skills to help that company become more successful.</para>
+	</objective>
+	<history>
+		<job>
+			<jobtitle>Senior Architect, Global Process and Systems Administration</jobtitle>
+			<employer>Level (3) Communications
+			Broomfield, Colorado</employer>
+			<period>
+				<from>
+					<date>
+						<month>March</month>
+						<year>2000</year>
+					</date>
+				</from>
+				<to>
+					<present/>
+				</to>
+			</period>
+			<description>
+				<para>(3)ROE</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Senior Engineer, IP Engineering, Systems</jobtitle>
+			<employer>Level (3) Communications
+			Louisville, Colorado</employer>
+			<period>
+				<from>
+					<date>
+						<month>December</month>
+						<year>1998</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>March</month>
+						<year>2000</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Development Manager</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Senior Engineer, IP Engineering, Systems</jobtitle>
+			<employer>Level (3) Communications
+			Louisville, Colorado</employer>
+			<period>
+				<from>
+					<date>
+						<month>May</month>
+						<year>1998</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>December</month>
+						<year>1998</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Responsible for Engineering and Software Development to support Level 3's national network. This includes automatic configuration of routers and switches, DNS, NTP, DHCP and other IP services.</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Director, Remote Operations Services Engineering</jobtitle>
+			<employer>Sprint Paranet (Formerly Paranet)
+			Dallas, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>October</month>
+						<year>1997</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>May</month>
+						<year>1998</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Responsible for the definition of services to be offered by Sprint and Sprint Paranet in their new Remote Operations Center. Provide technical and managerial leadership to the team that will implement the defined services. Provide vision for Sprint and Sprint Paranet's Remote Operations Center. Personally involved with the Remote Operations Center since its inception, including project definition, project planning and presentations.</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Network Design Analyst</jobtitle>
+			<employer>Paranet
+			Dallas, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>May</month>
+						<year>1993</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>September</month>
+						<year>1997</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Provided consulting, integration and operations support for Paranet and Paranet’s customers. Provided support and consulting for the operation, design and implementation of networks. Provided UNIX system administration support. Provided support for world-wide implementation of directory and naming systems. Provided specialized training in networking and naming services to Paranet and Paranet’s customers. Contributed to the creation of Paranet’s recruiting process, including forms and database development. Significant contribution to Paranet’s professional cadre through the technical interview process. Responsible for all of Paranet’s IT operations for a significant period of time.
+</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Systems Analyst II</jobtitle>
+			<employer>Texas A&amp;M University, Computing Services Center
+			College Station, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>December</month>
+						<year>1988</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>May</month>
+						<year>1993</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Served as a primary technical support analyst. Provided support for all microcomputer applications on Apple Macintoshes and IBM PC compatibles. Provided support and programming on UNIX platforms. Specialized in network support and integration, including AppleTalk, Novell, IBM, 3-Com and TCP/IP. Cross platform integration was an integral part of the duties performed. Custom programming provided as required.</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Department Head and Manager</jobtitle>
+			<employer>Texas A&amp;M University, Texas A&amp;M Micro Computer Center
+			College Station, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>January</month>
+						<year>1986</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>December</month>
+						<year>1988</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Served as manager and department head for the University owned computer store. The store resold computers to the students, faculty, staff and departments. As manager of the center, directed the expansion of sales from $750,000 to more the $4,000,000 annually. Instrumental in bringing sales to University departments and the expansion of the center’s product line and services.
+</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Microcomputer Specialist</jobtitle>
+			<employer>Texas A&amp;M University, Departmental Micro Support Center and Texas A&amp;M Micro Computer Center
+			College Station, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>June</month>
+						<year>1985</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>January</month>
+						<year>1986</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Served as the primary support person. Duties at the Micro Computer Center included technical support and responsibility for the assembly and testing of computers sold by the Micro Computer Center. Duties at the Support Center included serving as the primary contact for departments having trouble with microcomputers. Responsible for many different departments, computer models, peripherals and problems.
+</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Consultant</jobtitle>
+			<employer>Small Business Systems
+			College Station, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>May</month>
+						<year>1983</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>June</month>
+						<year>1985</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Independent computer systems consultant and integrator. Performed functions such as problem evaluation, equipment selection, software selection, custom software design and custom programming. Customers included Brazos County, Texas, the Texas Agricultural Extension Service as well as other government and commercial clients. Worked in the central Texas area from Houston to Killeen/Fort Hood to Waco.
+</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Programmer</jobtitle>
+			<employer>Brazos County, Data Processing Department
+			Bryan, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>April</month>
+						<year>1983</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>August</month>
+						<year>1984</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Responsible for program maintenance and new program development as well as system operations and ordering expendable supplies. Designed and implemented an office telephone system, voter registration system, interfaces to the jury selection system, as well as maintenance and enhancements to existing office automation and accounting systems.
+</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Student Technician</jobtitle>
+			<employer>Texas A&amp;M University, Robotics Automation Laboratory, Robotics Productivity Group
+			College Station, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>May</month>
+						<year>1982</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>May</month>
+						<year>1983</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Responsible for all computer operations for a research laboratory. Installed and maintained a minicomputer system (Texas Instruments 990/12) as well as writing software to interface to the various instruments and manufacturing machines in the lab. Software was developed for both the minicomputer system and for the microcomputer controllers (TMS9900’s) in the lab.
+</para>
+			</description>
+		</job>
+		<job>
+			<jobtitle>Programmer</jobtitle>
+			<employer>Texas Instruments, Corporate Engineering Center
+			Dallas, Texas</employer>
+			<period>
+				<from>
+					<date>
+						<month>June</month>
+						<year>1980</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>June</month>
+						<year>1982</year>
+					</date>
+				</to>
+			</period>
+			<description>
+				<para>Primarily responsible for software development to support the TI 99/4A microcomputer. Major projects included conversion of educational software written for the Radio Shack and the Apple microcomputers to the TI 99/4A. Developed a program to automatically convert Apple II programs to the TI 99/4A. Other major projects included communications programs including a video text system and interfaces to a graphics tablet. Worked with the Texas Agricultural Extension Service to provide a variety of software on a wide range of computers. Implemented a spreadsheet application for the TI 99/4A. Employed and based in Dallas, Texas, while working independently in College Station, Texas.
+</para>
+			</description>
+		</job>
+	</history>
+	<academics>
+		<degrees>
+			<degree>
+				<level>Graduate Work, Texas A&amp;M University, College Station, Texas</level>
+				<subject>Computer Science</subject>
+				<date>
+					<month>December</month>
+					<year>1984</year>
+				</date>
+			</degree>
+			<degree>
+				<level>Bachelor of Science, Texas A&amp;M University, College Station, Texas</level>
+				<subject>Computer Science, minor in Electronics Technology</subject>
+				<date>
+					<month>August</month>
+					<year>1983</year>
+				</date>
+			</degree>
+			<degree>
+				<level>Killeen High School, Killeen Texas</level>
+				<subject/>
+				<date>
+					<month>May</month>
+					<year>1979</year>
+				</date>
+			</degree>
+		</degrees>
+	</academics>
+	<skillareas>
+		<skillarea>
+			<title/>
+			<skillset>
+				<skills>
+					<skill/>
+				</skills>
+			</skillset>
+		</skillarea>
+	</skillareas>
+	<misc>
+		<para/>
+	</misc>
+	<keywords>
+		<keyword>XML</keyword>
+		<keyword>UNIX</keyword>
+		<keyword>Solaris</keyword>
+		<keyword>Linux</keyword>
+		<keyword>UML</keyword>
+	</keywords>
+	<copyright>
+		<year>2000</year>
+		<name>
+			<firstname>John Arthur</firstname>
+			<surname>Kane</surname>
+		</name>
+		<legalnotice>
+			<para>All Rights Reserved. Redistribution without explicit permission is forbidden.</para>
+		</legalnotice>
+	</copyright>
+</resume>
