@@ -23,7 +23,7 @@ A loose documentation site.
 
 ----
 
-<https://jakane.github.io/> |
+<https://jkane.info/> |
 <mailto:John.Kane@Kane.net>
 
 ----

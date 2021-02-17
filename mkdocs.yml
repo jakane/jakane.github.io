@@ -1,5 +1,5 @@
 site_name: John Kane
-site_url: https://jakane.github.io/
+site_url: https://jkane.info
 site_description: John's Personal github site
 site_author: John.Kane@Kane.net
 copyright: Copyright &copy; 2021 <a href="mailto:John.Kane@Kane.net">John Kane</a>
@@ -48,5 +48,4 @@ plugins:
 nav:
     - Home: README.md
     - About: about.md
-      # - playground.md
 
