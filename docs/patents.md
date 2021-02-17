@@ -14,8 +14,12 @@ Dates
 :   2009-02-02 &mdash; 2014-09-16
 
 Inventors
-:   John Kane, Joseph Lawrence, Maria Farnon, Rick Nooner, Raoul Alcala,
-    Mark Taylor
+:   [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
+    [Joseph&nbsp;Lawrence&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joe-lawrence-177a6314/),
+    [Maria&nbsp;Farnon&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mariafarnon/),
+    [Rick&nbsp;Nooner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ricknooner/),
+    [Raoul&nbsp;Alcala&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/royalcala/),
+    [Mark&nbsp;Taylor&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/markjtaylor/)
 
 Abstract
 :   Embodiments generally disclosed herein include a computer-implemented
@@ -44,8 +48,12 @@ Dates
 :   2009-02-02 &mdash; 2020-02-25
 
 Inventors
-:   John Kane, Joseph Lawrence, Maria Farnon, Rick Nooner, Raoul Alcala,
-    Mark Taylor
+:   [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
+    [Joseph&nbsp;Lawrence&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joe-lawrence-177a6314/),
+    [Maria&nbsp;Farnon&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mariafarnon/),
+    [Rick&nbsp;Nooner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ricknooner/),
+    [Raoul&nbsp;Alcala&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/royalcala/),
+    [Mark&nbsp;Taylor&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/markjtaylor/)
 
 Abstract
 :   Embodiments generally disclosed herein include a computer-implemented
@@ -73,9 +81,13 @@ Number
 Dates
 :   2009-02-02 &mdash; 2020-01-30
 
-Inventor
-:   John Kane, Joseph Lawrence, Maria Farnon, Rick Nooner, Raoul Alcala,
-    Mark Taylor
+Inventors
+:   [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
+    [Joseph&nbsp;Lawrence&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joe-lawrence-177a6314/),
+    [Maria&nbsp;Farnon&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mariafarnon/),
+    [Rick&nbsp;Nooner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ricknooner/),
+    [Raoul&nbsp;Alcala&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/royalcala/),
+    [Mark&nbsp;Taylor&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/markjtaylor/)
 
 Abstract
 :   Embodiments generally disclosed herein include a computer-implemented
@@ -103,9 +115,14 @@ Number
 Dates
 :   2008-08-31 &mdash; 2019-09-19
 
-Inventor
-:   James Ryan, Marcus Hadavi, Michael Renner, Peter Faber,
-    Raoul Alcala, John Kane, Hans Zeschin
+Inventors
+:   [James&nbsp;Ryan&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/jamessryan/),
+    [Marcus&nbsp;Hadavi&nbspl:fontawesome-brands-linkedin:](https://www.linkedin.com/in/marcus-hadavi-a5100ba/),
+    [Michael&nbsp;Renner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/michael-renner-42b816/),
+    Peter Faber,
+    [Raoul&nbsp;Alcala&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/royalcala/),
+    [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
+    [Hans&nbsp;Zeschin&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/hanszeschin/)
 
 Abstract
 :   A method for identifying VLANs associated with a network includes gathering
@@ -136,9 +153,14 @@ Number
 Dates
 :   2012-02-03 &mdash; 2016-12-06
 
-Inventor
-:   David R. Siegel, Jonathan Callahan, Lawrence Wayne Gowin,
-    Ricky Lynn Nooner, John Kane, Kevin John Royer, Marcellus Nixon
+Inventors
+:   [David&nbsp;R.&nbsp;Siegel&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/dsiegel/),
+    [Jonathan&nbsp;Callahan&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joncallahan/),
+    [Lawrence&nbsp;Wayne&nbsp;Gowin&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/lawrencegowin/),
+    [Ricky&nbsp;Lynn&nbsp;Nooner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ricknooner/),
+    [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
+    [Kevin&nbsp;John&nbsp;Royer&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/kevin-royer-bab096b/),
+    [Marcellus&nbsp;Nixon&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/marcellus-nixon-8395a087/)
 
 Abstract
 :   Implementations described and claimed herein provide systems and methods
@@ -162,7 +184,11 @@ Dates
 :   2012-02-03 &mdash; 2016-11-15
 
 Inventors
-:   Barbara Smith, Erik Sear, Dave Siegal, Jonathan Callahan, John Kane
+:   [Barbara&nbsp;Smith&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/barbarasmithdenvercolorado/),
+    [Erik&nbsp;Sear&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/esear/),
+    [Dave&nbsp;Siegel&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/dsiegel/),
+    [Jonathan&nbsp;Callahan&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joncallahan/),
+    [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
 
 Abstract
 :   Implementations described and claimed herein providing systems and methods
