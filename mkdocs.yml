@@ -50,6 +50,6 @@ plugins:
 
 nav:
     - Home: README.md
-    - About: about.md
+    - Contact: contact.md
     - Patents: patents.md
 
