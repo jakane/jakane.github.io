@@ -1,0 +1,52 @@
+site_name: John Kane
+site_url: https://jakane.github.io/
+site_description: John's Personal github site
+site_author: John.Kane@Kane.net
+copyright: Copyright &copy; 2021 <a href="mailto:John.Kane@Kane.net">John Kane</a>
+
+repo_url: https://github.com/jakane/jakane.github.io/
+edit_uri: edit/main/docs/
+
+theme:
+    name: material
+    highlightjs: true
+    hljs_languages:
+        - django
+        - html
+        - python
+        - yaml
+
+extra_css:
+    - styles/extra.css
+    - styles/style.css
+
+markdown_extensions:
+    - abbr
+    - admonition
+    - codehilite
+    - def_list
+    - fenced_code
+    - footnotes
+    - pymdownx.tasklist:
+        clickable_checkbox: false
+        custom_checkbox: true
+    - sane_lists
+    - smarty:
+        smart_dashes: true
+        smart_quotes: true
+        smart_angled_quotes: true
+        smart_ellipses: true
+    - tables
+    - toc:
+        permalink: "#"
+        baselevel: 1
+        separator: "_"
+
+plugins:
+    - search
+
+nav:
+    - Home: README.md
+    - About: about.md
+      # - playground.md
+
