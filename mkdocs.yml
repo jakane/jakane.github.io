@@ -27,6 +27,9 @@ markdown_extensions:
     - def_list
     - fenced_code
     - footnotes
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
     - pymdownx.tasklist:
         clickable_checkbox: false
         custom_checkbox: true
@@ -48,4 +51,5 @@ plugins:
 nav:
     - Home: README.md
     - About: about.md
+    - Patents: patents.md
 
