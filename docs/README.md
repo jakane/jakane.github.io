@@ -7,7 +7,10 @@ date: 2021-01-29
 ---
 # Welcome to John's Site
 
-A loose documentation site.
+----
+
+<https://jkane.info/> |
+<mailto:John.Kane@Kane.net>
 
 ----
 
@@ -17,18 +20,5 @@ A loose documentation site.
     And it will **of course** change!
     You are warned!
 
-## Projects
-
-## Project Ideas
-
-----
-
-<https://jkane.info/> |
-<mailto:John.Kane@Kane.net>
-
-----
-
 This site is created with [MkDocs](https://www.mkdocs.org).
-It is a grand experiment that I am conducting to improve my ability to write,
-distribute, and later rediscover my content.
 
