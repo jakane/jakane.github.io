@@ -8,7 +8,7 @@ the primary or contributing inventor.
 Number
 :   US 8,838,780 B2
     [HTML](https://patents.google.com/patent/US8838780B2)
-    [:fontawesome-regular-file-pdf:](patents/US8838780.pdf)
+    [:fontawesome-regular-file-pdf:](US8838780.pdf)
 
 Dates
 :   2009-02-02 &mdash; 2014-09-16
@@ -42,7 +42,7 @@ Abstract
 Number
 :   US 10,574,557 B2
     [HTTP](https://patents.google.com/patent/US10574557B2)
-    [:fontawesome-regular-file-pdf:](patents/US10574557.pdf)
+    [:fontawesome-regular-file-pdf:](US10574557.pdf)
 
 Dates
 :   2009-02-02 &mdash; 2020-02-25
@@ -76,7 +76,7 @@ Abstract
 Number
 :    US 2020/036616 A1
     [HTML](https://patents.google.com/patent/US20200036616A1)
-    [:fontawesome-regular-file-pdf:](patents/US20200036616A1.pdf)
+    [:fontawesome-regular-file-pdf:](US20200036616A1.pdf)
 
 Dates
 :   2009-02-02 &mdash; 2020-01-30
@@ -110,7 +110,7 @@ Abstract
 Number
 :   US 2019/0288912 A1
     [HTML](https://patents.google.com/patent/US20190288912A1)
-    [:fontawesome-regular-file-pdf:](patents/US20190288912A1.pdf)
+    [:fontawesome-regular-file-pdf:](US20190288912A1.pdf)
 
 Dates
 :   2008-08-31 &mdash; 2019-09-19
@@ -148,7 +148,7 @@ Abstract
 Number
 :   US 9,515,910 B2
     [HTML](https://patents.google.com/patent/US9515910B2)
-    [PDF :fontawesome-regular-file-pdf:](patents/US9515910.pdf)
+    [PDF :fontawesome-regular-file-pdf:](US9515910.pdf)
 
 Dates
 :   2012-02-03 &mdash; 2016-12-06
@@ -178,7 +178,7 @@ Abstract
 Number
 :   2013/0275587 A1
     [HTML](https://patents.google.com/patent/US20130275587A1)
-    [:fontawesome-regular-file-pdf:](patents/US20130275587A1.pdf)
+    [:fontawesome-regular-file-pdf:](US20130275587A1.pdf)
 
 Dates
 :   2012-02-03 &mdash; 2016-11-15
