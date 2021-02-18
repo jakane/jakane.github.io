@@ -10,11 +10,6 @@ last-modified: 2021-02-18
 
 ----
 
-<https://jkane.info/> |
-<mailto:John.Kane@Kane.net>
-
-----
-
 !!! warning
     This is a work in progress.
     The content is probably (_likely_) not current.
