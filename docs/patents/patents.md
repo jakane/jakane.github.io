@@ -12,20 +12,19 @@ the primary or contributing inventor.
 ## Analysis of network traffic
 
 Number
-:   US 8,838,780 B2
-    [HTML](https://patents.google.com/patent/US8838780B2)
+:   [US 8,838,780 B2](https://patents.google.com/patent/US8838780B2)
     [:fontawesome-regular-file-pdf:](US8838780.pdf)
 
 Dates
 :   2009-02-02 &mdash; 2014-09-16
 
 Inventors
-:   [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
-    [Joseph&nbsp;Lawrence&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joe-lawrence-177a6314/),
-    [Maria&nbsp;Farnon&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mariafarnon/),
-    [Rick&nbsp;Nooner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ricknooner/),
-    [Raoul&nbsp;Alcala&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/royalcala/),
-    [Mark&nbsp;Taylor&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/markjtaylor/)
+:   [:fontawesome-brands-linkedin:&nbsp;John&nbsp;Kane](https://www.linkedin.com/in/johnkane/),
+    [:fontawesome-brands-linkedin:&nbsp;Joseph&nbsp;Lawrence](https://www.linkedin.com/in/joe-lawrence-177a6314/),
+    [:fontawesome-brands-linkedin:&nbsp;Maria&nbsp;Farnon](https://www.linkedin.com/in/mariafarnon/),
+    [:fontawesome-brands-linkedin:&nbsp;Rick&nbsp;Nooner](https://www.linkedin.com/in/ricknooner/),
+    [:fontawesome-brands-linkedin:&nbsp;Raoul&nbsp;Alcala](https://www.linkedin.com/in/royalcala/),
+    [:fontawesome-brands-linkedin:&nbsp;Mark&nbsp;Taylor](https://www.linkedin.com/in/markjtaylor/)
 
 Abstract
 :   Embodiments generally disclosed herein include a computer-implemented
@@ -46,20 +45,19 @@ Abstract
 ## Analysis of network traffic
 
 Number
-:   US 10,574,557 B2
-    [HTTP](https://patents.google.com/patent/US10574557B2)
+:   [US 10,574,557 B2](https://patents.google.com/patent/US10574557B2)
     [:fontawesome-regular-file-pdf:](US10574557.pdf)
 
 Dates
 :   2009-02-02 &mdash; 2020-02-25
 
 Inventors
-:   [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
-    [Joseph&nbsp;Lawrence&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joe-lawrence-177a6314/),
-    [Maria&nbsp;Farnon&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mariafarnon/),
-    [Rick&nbsp;Nooner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ricknooner/),
-    [Raoul&nbsp;Alcala&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/royalcala/),
-    [Mark&nbsp;Taylor&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/markjtaylor/)
+:   [:fontawesome-brands-linkedin:&nbsp;John&nbsp;Kane](https://www.linkedin.com/in/johnkane/),
+    [:fontawesome-brands-linkedin:&nbsp;Joseph&nbsp;Lawrence](https://www.linkedin.com/in/joe-lawrence-177a6314/),
+    [:fontawesome-brands-linkedin:&nbsp;Maria&nbsp;Farnon](https://www.linkedin.com/in/mariafarnon/),
+    [:fontawesome-brands-linkedin:&nbsp;Rick&nbsp;Nooner](https://www.linkedin.com/in/ricknooner/),
+    [:fontawesome-brands-linkedin:&nbsp;Raoul&nbsp;Alcala](https://www.linkedin.com/in/royalcala/),
+    [:fontawesome-brands-linkedin:&nbsp;Mark&nbsp;Taylor](https://www.linkedin.com/in/markjtaylor/)
 
 Abstract
 :   Embodiments generally disclosed herein include a computer-implemented
@@ -80,20 +78,19 @@ Abstract
 ## Analysis of network traffic
 
 Number
-:    US 2020/036616 A1
-    [HTML](https://patents.google.com/patent/US20200036616A1)
+:   [US 2020/036616 A1](https://patents.google.com/patent/US20200036616A1)
     [:fontawesome-regular-file-pdf:](US20200036616A1.pdf)
 
 Dates
 :   2009-02-02 &mdash; 2020-01-30
 
 Inventors
-:   [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
-    [Joseph&nbsp;Lawrence&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joe-lawrence-177a6314/),
-    [Maria&nbsp;Farnon&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/mariafarnon/),
-    [Rick&nbsp;Nooner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ricknooner/),
-    [Raoul&nbsp;Alcala&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/royalcala/),
-    [Mark&nbsp;Taylor&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/markjtaylor/)
+:   [:fontawesome-brands-linkedin:&nbsp;John&nbsp;Kane](https://www.linkedin.com/in/johnkane/),
+    [:fontawesome-brands-linkedin:&nbsp;Joseph&nbsp;Lawrence](https://www.linkedin.com/in/joe-lawrence-177a6314/),
+    [:fontawesome-brands-linkedin:&nbsp;Maria&nbsp;Farnon](https://www.linkedin.com/in/mariafarnon/),
+    [:fontawesome-brands-linkedin:&nbsp;Rick&nbsp;Nooner](https://www.linkedin.com/in/ricknooner/),
+    [:fontawesome-brands-linkedin:&nbsp;Raoul&nbsp;Alcala](https://www.linkedin.com/in/royalcala/),
+    [:fontawesome-brands-linkedin:&nbsp;Mark&nbsp;Taylor](https://www.linkedin.com/in/markjtaylor/)
 
 Abstract
 :   Embodiments generally disclosed herein include a computer-implemented
@@ -114,21 +111,20 @@ Abstract
 ## System and method for managing virtual local area networks
 
 Number
-:   US 2019/0288912 A1
-    [HTML](https://patents.google.com/patent/US20190288912A1)
+:   [US 2019/0288912 A1](https://patents.google.com/patent/US20190288912A1)
     [:fontawesome-regular-file-pdf:](US20190288912A1.pdf)
 
 Dates
 :   2008-08-31 &mdash; 2019-09-19
 
 Inventors
-:   [James&nbsp;Ryan&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/jamessryan/),
-    [Marcus&nbsp;Hadavi&nbspl:fontawesome-brands-linkedin:](https://www.linkedin.com/in/marcus-hadavi-a5100ba/),
-    [Michael&nbsp;Renner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/michael-renner-42b816/),
+:   [:fontawesome-brands-linkedin:&nbsp;James&nbsp;Ryan](https://www.linkedin.com/in/jamessryan/),
+    [:fontawesome-brands-linkedin:&nbsp;Marcus&nbsp;Hadavi](https://www.linkedin.com/in/marcus-hadavi-a5100ba/),
+    [:fontawesome-brands-linkedin:&nbsp;Michael&nbsp;Renner](https://www.linkedin.com/in/michael-renner-42b816/),
     Peter Faber,
-    [Raoul&nbsp;Alcala&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/royalcala/),
-    [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
-    [Hans&nbsp;Zeschin&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/hanszeschin/)
+    [:fontawesome-brands-linkedin:&nbsp;Raoul&nbsp;Alcala](https://www.linkedin.com/in/royalcala/),
+    [:fontawesome-brands-linkedin:&nbsp;John&nbsp;Kane](https://www.linkedin.com/in/johnkane/),
+    [:fontawesome-brands-linkedin:&nbsp;Hans&nbsp;Zeschin](https://www.linkedin.com/in/hanszeschin/)
 
 Abstract
 :   A method for identifying VLANs associated with a network includes gathering
@@ -152,21 +148,20 @@ Abstract
 ## Systems and methods for identifying and remedying traffic imbalances and inequities between networks
 
 Number
-:   US 9,515,910 B2
-    [HTML](https://patents.google.com/patent/US9515910B2)
+:   [US 9,515,910 B2](https://patents.google.com/patent/US9515910B2)
     [PDF :fontawesome-regular-file-pdf:](US9515910.pdf)
 
 Dates
 :   2012-02-03 &mdash; 2016-12-06
 
 Inventors
-:   [David&nbsp;R.&nbsp;Siegel&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/dsiegel/),
-    [Jonathan&nbsp;Callahan&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joncallahan/),
-    [Lawrence&nbsp;Wayne&nbsp;Gowin&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/lawrencegowin/),
-    [Ricky&nbsp;Lynn&nbsp;Nooner&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/ricknooner/),
-    [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
-    [Kevin&nbsp;John&nbsp;Royer&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/kevin-royer-bab096b/),
-    [Marcellus&nbsp;Nixon&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/marcellus-nixon-8395a087/)
+:   [:fontawesome-brands-linkedin:&nbsp;David&nbsp;R.&nbsp;Siegel](https://www.linkedin.com/in/dsiegel/),
+    [:fontawesome-brands-linkedin:&nbsp;Jonathan&nbsp;Callahan](https://www.linkedin.com/in/joncallahan/),
+    [:fontawesome-brands-linkedin:&nbsp;Lawrence&nbsp;Wayne&nbsp;Gowin](https://www.linkedin.com/in/lawrencegowin/),
+    [:fontawesome-brands-linkedin:&nbsp;Ricky&nbsp;Lynn&nbsp;Nooner](https://www.linkedin.com/in/ricknooner/),
+    [:fontawesome-brands-linkedin:&nbsp;John&nbsp;Kane](https://www.linkedin.com/in/johnkane/),
+    [:fontawesome-brands-linkedin:&nbsp;Kevin&nbsp;John&nbsp;Royer](https://www.linkedin.com/in/kevin-royer-bab096b/),
+    [:fontawesome-brands-linkedin:&nbsp;Marcellus&nbsp;Nixon](https://www.linkedin.com/in/marcellus-nixon-8395a087/)
 
 Abstract
 :   Implementations described and claimed herein provide systems and methods
@@ -182,19 +177,18 @@ Abstract
 ## Systems and methods for identifying and remedying traffic imbalances and inequities between networks
 
 Number
-:   2013/0275587 A1
-    [HTML](https://patents.google.com/patent/US20130275587A1)
+:   [2013/0275587 A1](https://patents.google.com/patent/US20130275587A1)
     [:fontawesome-regular-file-pdf:](US20130275587A1.pdf)
 
 Dates
 :   2012-02-03 &mdash; 2016-11-15
 
 Inventors
-:   [Barbara&nbsp;Smith&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/barbarasmithdenvercolorado/),
-    [Erik&nbsp;Sear&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/esear/),
-    [Dave&nbsp;Siegel&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/dsiegel/),
-    [Jonathan&nbsp;Callahan&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/joncallahan/),
-    [John&nbsp;Kane&nbsp;:fontawesome-brands-linkedin:](https://www.linkedin.com/in/johnkane/),
+:   [:fontawesome-brands-linkedin:&nbsp;Barbara&nbsp;Smith](https://www.linkedin.com/in/barbarasmithdenvercolorado/),
+    [:fontawesome-brands-linkedin:&nbsp;Erik&nbsp;Sear](https://www.linkedin.com/in/esear/),
+    [:fontawesome-brands-linkedin:&nbsp;Dave&nbsp;Siegel](https://www.linkedin.com/in/dsiegel/),
+    [:fontawesome-brands-linkedin:&nbsp;Jonathan&nbsp;Callahan](https://www.linkedin.com/in/joncallahan/),
+    [:fontawesome-brands-linkedin:&nbsp;John&nbsp;Kane](https://www.linkedin.com/in/johnkane/),
 
 Abstract
 :   Implementations described and claimed herein providing systems and methods
