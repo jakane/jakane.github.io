@@ -11,6 +11,7 @@ mkdocs-material = "*"
 mkdocs-material-extensions = "*"
 pygments = "*"
 pymdown-extensions = "*"
+mkdocs-git-revision-date-plugin = "*"
 
 [requires]
 python_version = "3.8"
