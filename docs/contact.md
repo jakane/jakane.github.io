@@ -1,3 +1,9 @@
+---
+title: "Contact Information"
+permalink: /contact.html
+last-modified: 2021-02-18
+---
+
 # Contact Information
 
 |          |     |

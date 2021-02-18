@@ -15,6 +15,7 @@ theme:
         - html
         - python
         - yaml
+    custom_dir: overrides
 
 extra_css:
     - stylesheets/extra.css

@@ -1,3 +1,9 @@
+---
+title: "Patents"
+permalink: /patents/patents.html
+last-modified: 2021-02-18
+---
+
 # Patents
 
 Listed below are the patents that I have participated on, as either

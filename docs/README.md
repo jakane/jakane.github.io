@@ -4,6 +4,7 @@ Summary: A loose documentation site.
 authors:
     - John.Kane@Kane.net
 date: 2021-01-29
+last-modified: 2021-02-18
 ---
 # Welcome to John's Site
 
@@ -19,6 +20,4 @@ date: 2021-01-29
     The content is probably (_likely_) not current.
     And it will **of course** change!
     You are warned!
-
-This site is created with [MkDocs](https://www.mkdocs.org).
 
