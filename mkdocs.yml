@@ -17,8 +17,8 @@ theme:
         - yaml
 
 extra_css:
-    - styles/extra.css
-    - styles/style.css
+    - stylesheets/extra.css
+    - stylesheets/style.css
 
 markdown_extensions:
     - abbr
@@ -46,6 +46,7 @@ markdown_extensions:
         separator: "_"
 
 plugins:
+    - git-revision-date
     - search
 
 nav:
