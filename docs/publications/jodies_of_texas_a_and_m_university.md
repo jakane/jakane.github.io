@@ -14,14 +14,14 @@ John Arthur Kane<br/>
     in College Station, Texas. The representation below has been edited to
     reflect changes in time and feeling.
 
-There once was a man whose name was Jody. Jody, probably an African-American,
-was very special. It seems that he "got around" a lot. Whenever one of his
-neighbors was away, be it in a jail or a war or whatever, Jody seemed to win
-the affections of this poor unfortunate's wife, sister, or girlfriend. Not only
-would he sleep with the above mentioned but he would also use the car, support
-money in effect he would suck a man who was already in the dumps dry. Needless
-to say that the residents, male residents anyway, found Jody to be downright
-annoying, even if their female kindred had a liking for him.
+There once was a man whose name was Jody. Jody, was very special. It seems that
+he "got around" a lot. Whenever one of his neighbors was away, be it in a jail
+or a war or whatever, Jody seemed to win the affections of this poor
+unfortunate's wife, sister, or girlfriend. Not only would he sleep with the
+above mentioned but he would also use the car, support money in effect he would
+suck a man who was already in the dumps dry. Needless to say that the
+residents, male residents anyway, found Jody to be downright annoying, even if
+their female kindred had a liking for him.
 
 When our poor citizens were away in jail or at a war they met others who had
 Jodies in their neighborhood too. This common enemy and interest led to songs
