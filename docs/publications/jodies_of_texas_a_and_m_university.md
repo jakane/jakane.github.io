@@ -1,32 +1,154 @@
+---
+Title:    The Jodies of Texas A&M University
+Author:   John Arthur Kane
+Date:     July 3, 1981
+Comment:  This was a paper written for English 331 at Texas A&M University.
+---
 # The Jodies of Texas A&M University
+
 John Arthur Kane<br/>
 3 July 1981
 
-There once was a man whose name was jody. Jody, probably a negro, was very special. It seems that he "got around" a lot. Whenever one of his neighbors was away, be it in a jail or a war or whatever, Jody seemed to win the affections of this poor unfortunate's wife, sister, or girlfriend. Not only would he sleep with the above mentioned but he would also use the car, support money in effect he would suck a man who was already in the dumps dry. Needless to say that the residents, male residents anyway, found Jody to be downright annoying, even if their female kindred had a liking for him.
+!!! note "This document has been revised"
+    This document was written for an English class at Texas A&M University
+    in College Station, Texas. The representation below has been edited to
+    reflect changes in time and feeling.
 
-When our poor citizens were away in jail or at a war they met others who had Jodies in their neighborhood too. This common enemy and interest led to songs or chants about this immoral immortal. It is these songs that eventually led to a whole genre of work songs called "jodies."
+There once was a man whose name was Jody. Jody, probably an African-American,
+was very special. It seems that he "got around" a lot. Whenever one of his
+neighbors was away, be it in a jail or a war or whatever, Jody seemed to win
+the affections of this poor unfortunate's wife, sister, or girlfriend. Not only
+would he sleep with the above mentioned but he would also use the car, support
+money in effect he would suck a man who was already in the dumps dry. Needless
+to say that the residents, male residents anyway, found Jody to be downright
+annoying, even if their female kindred had a liking for him.
 
-A jody is a marching chant or song used in the military to help maintain step and cadence. When an outfit runs or marches jodies can usually be heard. The jodies have become specialized and are used at certain tiroes. There are jodies for marching to chow, jodies for running, jodies for parades, and jodies for protestation. The jody serves as a vehicle for the soldier, the "folk," to relieve some of his tensions and anxieties as well as maintaining a cadence for marching; it would be foolish and untrue to say that everyone who leads or participates in a jody is trying to relieve tension for many times the jodies are chanted because they just are f un.†
+When our poor citizens were away in jail or at a war they met others who had
+Jodies in their neighborhood too. This common enemy and interest led to songs
+or chants about this immoral immortal. It is these songs that eventually led to
+a whole genre of work songs called "jodies."
 
-This paper will deal with one small sector of the folk, the ROTC Cadets at Texas A&M University. This ROTC branch, the Corps of Cadets, is one of the largest officer training schools in the nation. Students, while attempting to gain a college education, go through the routines of a military life while they either strive for a commision as an officer in the Armed Forces of the United States or attempt to share in the comraaraderie and fellowship that abounds throughout the organization. This Corps of Cadets is a seven-day corps which means that the cadets wear a uniform everywhere they go on campus everyday of the year. Military training classes are manditory for each cadet. In many aspects the Corps is the military. 
+A jody is a marching chant or song used in the military to help maintain step
+and cadence. When an outfit runs or marches jodies can usually be heard. The
+jodies have become specialized and are used at certain tiroes. There are jodies
+for marching to chow, jodies for running, jodies for parades, and jodies for
+protestation. The jody serves as a vehicle for the soldier, the "folk," to
+relieve some of his tensions and anxieties as well as maintaining a cadence for
+marching; it would be foolish and untrue to say that everyone who leads or
+participates in a jody is trying to relieve tension for many times the jodies
+are chanted because they just are f un.†
 
-This military persuasion plus the fact that many of the cadets have served in the military before attending A&M gives Texas A&M access to many military traditions. Jody managed to migrate over into the lore of the cadets and has proved his adaptablity to different situations. The jodies used by the cadets at A&M are probably the most varied and most representative of the entire genre as can be collected in any one place. All branches of the Armed Forces are represented in the Corps therefore jodies frcta every branch are in use, including a few that are specific to A&M. 
+This paper will deal with one small sector of the folk, the ROTC Cadets at
+Texas A&M University. This ROTC branch, the Corps of Cadets, is one of the
+largest officer training schools in the nation. Students, while attempting to
+gain a college education, go through the routines of a military life while they
+either strive for a commision as an officer in the Armed Forces of the United
+States or attempt to share in the comraaraderie and fellowship that abounds
+throughout the organization. This Corps of Cadets is a seven-day corps which
+means that the cadets wear a uniform everywhere they go on campus everyday of
+the year. Military training classes are manditory for each cadet. In many
+aspects the Corps is the military. 
 
-In order to understand jodies and why they exist as they do one must have an understanding of the environment in which they are employed. Texas A&M was founded in 1876 in a barren part of Texas called the Brazos Valley. The most accesible means of traveling there was by train. This rough land attracted many rough students. The Agricultural and Mechanical College of Texas was to provide a practical education for those young men who wanted to become better farmers. This student body was indeed rowdy. The first students had to cut their hair short and cut their beards off, buy a uniform, and subject theirselves to military training and discipline.   So was bom the Corps of Cadets. 
+This military persuasion plus the fact that many of the cadets have served in
+the military before attending A&M gives Texas A&M access to many military
+traditions. Jody managed to migrate over into the lore of the cadets and has
+proved his adaptablity to different situations. The jodies used by the cadets
+at A&M are probably the most varied and most representative of the entire genre
+as can be collected in any one place. All branches of the Armed Forces are
+represented in the Corps therefore jodies frcta every branch are in use,
+including a few that are specific to A&M. 
 
-In the early years of the college a dynamic man by the name of Lawrence Sullivan "Sully" Ross became president of A&M. This man did much to shape the character, style, and reputation of the college. Today he is a legend to the Aggies, as those who attend Texas A&M are prone to be called. Like many other folk heros Sully is remembered in the lore of the folk. There exist numerous jodies about Sully and the examples that he has to give to good Aggies abound in them. In the years since Sully was president there have been many other people who have given much to the school but none are remembered or revered as much as Sully is. 
+In order to understand jodies and why they exist as they do one must have an
+understanding of the environment in which they are employed. Texas A&M was
+founded in 1876 in a barren part of Texas called the Brazos Valley. The most
+accesible means of traveling there was by train. This rough land attracted many
+rough students. The Agricultural and Mechanical College of Texas was to provide
+a practical education for those young men who wanted to become better farmers.
+This student body was indeed rowdy. The first students had to cut their hair
+short and cut their beards off, buy a uniform, and subject theirselves to
+military training and discipline.   So was bom the Corps of Cadets. 
 
-Throughout the years of A&M's life there were always students who were not a part of the Corps of Cadets. Many of those students were either graduate students or could not participate in the Corpus activities due to medical reasons. This "non-reg" population, all those who were not in the Corps, had always been a small percentage of the student body. Today, with an enrollment of more than thirty-thousand students, the Corps comprises only two-thousand members. It is no longer an all-male school either. Yet despite this non-reg majority the Corps is still looked upon as the "gaurdians of tradition" at A&M. The cadets have an intesive program of "campusology," literally knowledge about the campus, that is taught to and memorized by every cadet. These formulaic questions and answers about the history of A&M gives the cadets a better understanding of A&M and her traditions and serves to instill a strong sense of pride in each and every one. This pride for the school explains the popularity of some of the jodies at A&M. 
+In the early years of the college a dynamic man by the name of Lawrence
+Sullivan "Sully" Ross became president of A&M. This man did much to shape the
+character, style, and reputation of the college. Today he is a legend to the
+Aggies, as those who attend Texas A&M are prone to be called. Like many other
+folk heros Sully is remembered in the lore of the folk. There exist numerous
+jodies about Sully and the examples that he has to give to good Aggies abound
+in them. In the years since Sully was president there have been many other
+people who have given much to the school but none are remembered or revered as
+much as Sully is. 
 
-The jodies serve a dual purpose; they maintain cadence and they are used to show pride, relieve fear, and as a release for many other emotions.   How jodies evolved or first came about is uncertain.   Jodies about Jody have existed 2 since at least 1939 .   It is likely that jodies have existed in some form or fashion ever since man has had a need to march in formation.   In that sense jodies serve the same purpose that work songs for chopping tress or picking cotton do in the prisons.   It is much easier to march when each man takes steps at the same time.   The jody coordinates this very well.     There is a pattern in the tune of the jody that tells each person when to place what foot down.   Long marches or runs can tend to be boring and tedious;   jodies break the tedium and lead to a higher spirit in the men.   This allows the men to march or run longer. 
+Throughout the years of A&M's life there were always students who were not a
+part of the Corps of Cadets. Many of those students were either graduate
+students or could not participate in the Corpus activities due to medical
+reasons. This "non-reg" population, all those who were not in the Corps, had
+always been a small percentage of the student body. Today, with an enrollment
+of more than thirty-thousand students, the Corps comprises only two-thousand
+members. It is no longer an all-male school either. Yet despite this non-reg
+majority the Corps is still looked upon as the "gaurdians of tradition" at A&M.
+The cadets have an intesive program of "campusology," literally knowledge about
+the campus, that is taught to and memorized by every cadet. These formulaic
+questions and answers about the history of A&M gives the cadets a better
+understanding of A&M and her traditions and serves to instill a strong sense of
+pride in each and every one. This pride for the school explains the popularity
+of some of the jodies at A&M. 
 
-The jodies have also gained a game-playing role. The leader can insult his surperiors, military life, or anything that comes to mind. At A&M this game- playing role has taken on added features to acccmidate the college student. Here the leader can be punished for his jodies by being assigned to do push-ups or other physical exercises or, at special times, by being ordered to jump into a mud hole and roll around in it. The jodies are very formulaic and the rhyming schemes so straight-forward that new jodies can be made up in the pattern and tune of older ones rather easily. This allows for ready composition of jodies to fit any occasion. This adaptability and flexibility is in part what allows jodies to survive. 
+The jodies serve a dual purpose; they maintain cadence and they are used to
+show pride, relieve fear, and as a release for many other emotions.   How
+jodies evolved or first came about is uncertain.   Jodies about Jody have
+existed 2 since at least 1939 .   It is likely that jodies have existed in some
+form or fashion ever since man has had a need to march in formation.   In that
+sense jodies serve the same purpose that work songs for chopping tress or
+picking cotton do in the prisons.   It is much easier to march when each man
+takes steps at the same time.   The jody coordinates this very well.     There
+is a pattern in the tune of the jody that tells each person when to place what
+foot down.   Long marches or runs can tend to be boring and tedious;   jodies
+break the tedium and lead to a higher spirit in the men.   This allows the men
+to march or run longer. 
 
-There are two basic forms of the tempo in the jody: quick-time and double time. Quick-time is a marching cadence that is about eighty steps a minute, in other words it is a standard marching tempo.   Double-time is the step used for running.   Though double-time is called running it is really a shuffle that allows 3 the group to run for a greater length of time without becoming overly tired.     Many of the jodies can be sung at both quick-time and double-time but there are also jodies that can only be sung at one cadence. When a jody is sung at quick-time the accents in the tune usually occur on every foot with the stronger accents on the left foot. At double-time the accents usually occur every other foot, usually on the left foot. This stagering of the accent allows the jodies to progress at about the same speed at either quick-time or double-time. 
+The jodies have also gained a game-playing role. The leader can insult his
+surperiors, military life, or anything that comes to mind. At A&M this game-
+playing role has taken on added features to acccmidate the college student.
+Here the leader can be punished for his jodies by being assigned to do push-ups
+or other physical exercises or, at special times, by being ordered to jump into
+a mud hole and roll around in it. The jodies are very formulaic and the rhyming
+schemes so straight-forward that new jodies can be made up in the pattern and
+tune of older ones rather easily. This allows for ready composition of jodies
+to fit any occasion. This adaptability and flexibility is in part what allows
+jodies to survive. 
 
-The rhyming scheme of jodies are familiar rhyming patterns found in all traditional music. The ABAB and the ABCA are the most prevelant. Jodies usually break logically into stanzas of either two lines or four lines. The leader will chant the first line and then the group will repeat that line. The leader then chants the second line and the group repeats it and so on until the jody is finished. This method is most common though there are jodies that vary from this. The most frequently occuring variance is one where the leader will chant a line and the group will have its own response that is distinct from the leader's lines. The last type of rhyming/performance scheme is one where the leader will chant a one, two, or three syllable word or phrase that is echoed by the group. This type has no set order and is used mainly as a filler while the leader thinks up a new jody. 
+There are two basic forms of the tempo in the jody: quick-time and double time.
+Quick-time is a marching cadence that is about eighty steps a minute, in other
+words it is a standard marching tempo.   Double-time is the step used for
+running.   Though double-time is called running it is really a shuffle that
+allows 3 the group to run for a greater length of time without becoming overly
+tired.     Many of the jodies can be sung at both quick-time and double-time
+but there are also jodies that can only be sung at one cadence. When a jody is
+sung at quick-time the accents in the tune usually occur on every foot with the
+stronger accents on the left foot. At double-time the accents usually occur
+every other foot, usually on the left foot. This stagering of the accent allows
+the jodies to progress at about the same speed at either quick-time or
+double-time. 
 
-The following pages contain some of the jodies collected at Texas A&M during the period of 1 January 1981 to 30 April 1981. This is not a complete collection but it is one that is representative of the types of jodies in current use in the Corps. Appendix A contains the texts of the jodies and a short interpretaion of each jody can be found in appendix B. Appendix C contains a glossary of some of the terms used in this paper. 
+The rhyming scheme of jodies are familiar rhyming patterns found in all
+traditional music. The ABAB and the ABCA are the most prevelant. Jodies usually
+break logically into stanzas of either two lines or four lines. The leader will
+chant the first line and then the group will repeat that line. The leader then
+chants the second line and the group repeats it and so on until the jody is
+finished. This method is most common though there are jodies that vary from
+this. The most frequently occuring variance is one where the leader will chant
+a line and the group will have its own response that is distinct from the
+leader's lines. The last type of rhyming/performance scheme is one where the
+leader will chant a one, two, or three syllable word or phrase that is echoed
+by the group. This type has no set order and is used mainly as a filler while
+the leader thinks up a new jody. 
+
+The following pages contain some of the jodies collected at Texas A&M during
+the period of 1 January 1981 to 30 April 1981. This is not a complete
+collection but it is one that is representative of the types of jodies in
+current use in the Corps. Appendix A contains the texts of the jodies and a
+short interpretaion of each jody can be found in appendix B. Appendix C
+contains a glossary of some of the terms used in this paper. 
 
 ## Jodie Texts
 ###A&M 
@@ -936,3 +1058,13 @@ Cadence Chants,"    78 (1965);   pp 52-61.
 (1967);    pp 387-396. 
 * Wake up Dead Man:    Afro-American Worksonos from Texas Prisons.    Harvard 
 University Press, 1972.
+
+<!--
+    <https://texags.com/forums/63/topics/2026870>
+    <https://en.wikipedia.org/wiki/Military_cadence#:~:text=In%20the%20United%20States%2C%20these,cheats%20while%20he%20is%20deployed.>
+    <http://cawgencampment.cawgcap.org/wp/wp-content/uploads/2014/05/JODYBOOK.pdf>
+    <https://www.dodreads.com/cadences/>
+    <https://taskandpurpose.com/history/brief-history-jody-original-mr-steal-girl/>
+    <https://www.semo.edu/pdf/Army_Cadences_Clemson_ROTC.pdf>
+    <https://www.mudcat.org/thread.cfm?threadid=2915&desc=yes>
+-->
