@@ -14,7 +14,7 @@ John Arthur Kane<br/>
     in College Station, Texas. The representation below has been edited to
     reflect changes in time and feeling.
 
-There once was a man whose name was Jody. Jody, was very special. It seems that
+There once was a man whose name was Jody. Jody was very special. It seems that
 he "got around" a lot. Whenever one of his neighbors was away, be it in a jail
 or a war or whatever, Jody seemed to win the affections of this poor
 unfortunate's wife, sister, or girlfriend. Not only would he sleep with the
